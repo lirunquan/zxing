@@ -1,0 +1,1 @@
+[{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":108,"versionName":"4.7.8","enabled":true,"outputFile":"app-release-unsigned.apk","fullName":"release","baseName":"release"},"path":"resources-release.ap_","properties":{"packageId":"com.google.zxing.client.android","split":"","minSdkVersion":"19"}}]
